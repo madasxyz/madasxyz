@@ -1,6 +1,9 @@
-🌸 I'm **Madas**, or some may know me as **Arm**
-🤖 I'm a web/bot developer and know Java and JS.
-🌐 Check out my website for links: **https://madas.xyz**
+🌸 I'm **Madas**, or some may know me as **Arm**  
+
+🤖 I'm a web/bot developer and know Java and JS.  
+
+🌐 Check out my website for links: **https://madas.xyz**  
+
 
 🦆 https://youtu.be/FZUcpVmEHuk
 
