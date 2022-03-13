@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Madasish&color=ff88b5"> 
-  <img src="https://img.shields.io/badge/Age-15-ff88b5"> <img src="https://dcbadge.vercel.app/api/shield/704011737900253315?style=flat&theme=discord">
+  <img src="https://img.shields.io/badge/Age-15-ff88b5">
+  <img src="https://dcbadge.vercel.app/api/shield/704011737900253315?style=flat&theme=discord">
+  <img src="https://komarev.com/ghpvc/?username=Madasish&color=ff88b5">
 </p>
 
 ## About Me
