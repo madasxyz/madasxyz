@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=Madasish&color=pink)
+![](https://komarev.com/ghpvc/?username=Madasish&color=ff88b5)
 ## About Me
 🌸 I'm **Madas**, or some may know me as **Arm**  
 🤖 I'm a web/bot developer and know Java and JS.  
