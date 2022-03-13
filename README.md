@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Madasish&color=ff88b5"> <img src="https://dcbadge.vercel.app/api/shield/704011737900253315?style=flat">
 </p>
+
 ## About Me
 🌸 I'm **Madas**, or some may know me as **Arm**  
 🤖 I'm a web/bot developer and know Java and JS.  
