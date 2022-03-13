@@ -10,11 +10,13 @@
 
 🦆 https://youtu.be/FZUcpVmEHuk  
 
+<!---
 ## My Discord
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/704011737900253315)](https://discord.com/users/704011737900253315)
 
 ## My Github stats
+-->
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Madasish&theme=dracula)](https://github.com/Madasish/)
 
