@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=Madasish&color=ff88b5">
 </p>
 
-## About Me
+<h1>About me</h1>
  - 🌸 I'm **Madas**, or some may know me as **Arm**  
  - 🤖 I'm a web/bot developer and know Java and JS.  
  - 🌐 Check out my website for links: **https://madas.xyz**  
@@ -16,7 +16,7 @@
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/704011737900253315)](https://discord.com/users/704011737900253315)
 -->
 
-## My Github stats
+<h1>My Github stats</h1>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Madasish&theme=dracula" href="https://github.com/Madasish/">
