@@ -18,6 +18,13 @@
 
 ## My Github stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Madasish&theme=dracula" href="https://github.com/Madasish/">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madasish&theme=dracula&layout=compact" href="https://github.com/Madasish/">
+<p>
+
+<!---
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Madasish&theme=dracula)](https://github.com/Madasish/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Madasish&theme=dracula&layout=compact)](https://github.com/Madasish/)
+-->
