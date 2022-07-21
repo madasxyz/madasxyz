@@ -18,8 +18,11 @@
 
 ## My Github stats
 
-<p align="center" display="flex">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Madasish&theme=dracula" href="https://github.com/Madasish/">
+<p>
+  
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madasish&theme=dracula&layout=compact" href="https://github.com/Madasish/">
 <p>
 
