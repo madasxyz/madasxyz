@@ -18,7 +18,7 @@
 
 ## My Github stats
 
-<p align="center">
+<p align="center" display="flex">
   <img src="https://github-readme-stats.vercel.app/api?username=Madasish&theme=dracula" href="https://github.com/Madasish/">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madasish&theme=dracula&layout=compact" href="https://github.com/Madasish/">
 <p>
