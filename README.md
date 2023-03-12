@@ -6,7 +6,7 @@
 
 ## About me
  - 🌸 I'm **Madas**, or some may know me as **Arm**  
- - 🤖 I'm a web/bot developer and know Java and JS.  
+ - 🤖 I'm a web/bot developer.  
  - 🌐 Check out my website for links: **https://madas.xyz**  
 <!---
 🦆 https://youtu.be/FZUcpVmEHuk  
