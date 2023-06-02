@@ -18,6 +18,6 @@
 
 ## My Github stats
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Madasish&theme=dracula)](https://github.com/Madasish/)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=madasxyz&theme=dracula)](https://github.com/madasxyz/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Madasish&theme=dracula&layout=compact)](https://github.com/Madasish/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madasxyz&theme=dracula&layout=compact)](https://github.com/madasxyz/)
