@@ -4,10 +4,16 @@
   <img src="https://komarev.com/ghpvc/?username=Madasish&color=ff88b5">
 </p>
 
-## About me
- - 🌸 I'm **Madars**, or some may know me as **Madas**  
- - 🤖 I'm a web/bot developer.
- - 🌐 Here's my personal website: **https://madas.xyz**  
+## 👋 Heyo! 
+ - 🌸 My name is **Madars**
+ - 🤖 I'm a web/bot developer who loves to create.
+ - 🌐 You can check out my personal website here: **[https://madas.xyz]**
+
+## Skills
+ - Linux: I have experience with Linux operating systems and command-line tools.
+ - JavaScript (NodeJS): I use NodeJS to build web applications and bots.
+ - Python: I also know Python, I mainly use it for scripting.
+
 <!---
 🦆 https://youtu.be/FZUcpVmEHuk  
 
