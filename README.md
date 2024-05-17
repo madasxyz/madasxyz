@@ -6,7 +6,7 @@
 
 ## 👋 Heyo! 
  - 🌸 My name is **Madars**
- - 🤖 I'm a web/bot developer who loves to create.
+ - 🤖 I'm a tech and linux enthusiast from Latvia who loves to create.
  - 🌐 You can check out my personal website here: **[https://madas.xyz]**
 
 ## Skills
